@@ -5,7 +5,7 @@
   "version": "2.0.1-dev",
   "main": "index.js",
   "repository": {
-    "url": "https://github.com/apache/cordova-node-xcode.git"
+    "url": "https://github.com/quding0308/cordova-node-xcode"
   },
   "engines": {
     "node": ">=6.0.0"
